@@ -15,4 +15,4 @@ driver.get("https://www.ctvnews.ca/")
 #Wait a little for page to load 
 time.sleep(6)
 
-print(a)
+print(testFile.a)
