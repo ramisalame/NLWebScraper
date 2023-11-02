@@ -12,6 +12,10 @@ Here is an example of the graph. It will take several news articles from the sit
 
 ![image](https://github.com/ramisalame/NLWebScraper/assets/17535397/9bc5ac27-5775-49e2-aca2-13a901d8019f)
 
+Matplotlib with sentiment score graphed example:
+![image](https://github.com/ramisalame/NLWebScraper/assets/17535397/d5939680-8b2f-481c-844a-036f524fb9d8)
+
+
 Future Changes (2023/2024):
 - Allow for dynamic article gathering (code will break if Xcode changes)
 - Allow for the user to enter a site while the program is running i.e hold the site with a variable instead of statically in code
